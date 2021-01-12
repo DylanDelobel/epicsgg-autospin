@@ -3,7 +3,8 @@
 // @name         Epics.gg Auto-Spin
 // @namespace    https://github.com/DylanDelobel/epicsgg-autospin
 // @description  Auto-spin on Epic.gg every 30 minutes
-// @version      1.0
+// @version      1.1
+// @match        https://app.epics.gg/csgo/spinner
 // @match        https://app.epics.gg/csgo/spinner*
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/DylanDelobel/epicsgg-autospin/master/epicsgg-autospin.user.js
